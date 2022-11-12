@@ -1,0 +1,315 @@
+{
+    "seo":{
+        "url": "https://minayu.site",
+        "title": "@Mina Influence",
+        "img": "https://minayu.site/favicon.jpg",
+        "home": {
+            "website": "@Mina Influence - @Mina Influence",
+            "title": "@Mina Influence",
+            "description": "As a Software Engineer, Polyglot, my interests are doing innovative software projects, learning languages and research fortune-telling and occult, I build my site for standing positive and knowledge articles to motivate people to live a life you want and walk out your unique road. ",
+            "img": "https://minayu.site/img/cover-image.jpeg",
+            "url":"https://minayu.site/en/"
+
+        },
+        "about": {
+            "website": "About - @Mina Influence",
+            "title": "About",
+            "description": "Hi, this is Mina Yu, Aquarius Moon Sign and an ENTP woman build own website for sharing positive things and to motivate people that walk out your unique road and creative your unique life story.",
+            "img": "https://minayu.site/img/about.jpg",
+            "url":"https://minayu.site/en/about/"
+        },
+        "blog": {
+            "website": "Blog - @Mina Influence",
+            "title": "Blog",
+            "description": "Write blog posts about software knowledge, software development story, language learning, fortune-telling, travel diaries, some psychological notes about self-reflection and observation of people.",
+            "img": "https://minayu.site/img/blog-cover-image.jpg",
+            "url":"https://minayu.site/en/blog/"
+
+        },
+        "portfolio": {
+            "website": "Portfolio - @Mina Influence",
+            "title": "Portfolio",
+            "description": "My dream is realized my creative ideas and express myself through developing software products/projects by myself. This page uses the design of Timeline to present the projects I Joined before and personal creative works.",
+            "img": "https://minayu.site/img/portfolio-cover-image.jpg",
+            "url":"https://minayu.site/en/portfolio/"
+
+        },
+        "contact": {
+            "website": "Contact - @Mina Influence",
+            "title": "Contact",
+            "description": "If you have any thoughts, feedback in the article, as well as some interesting questions, please send emails or contact us through LinkedIn.",
+            "img": "https://minayu.site/img/contact-cover-image.jpg",
+            "url":"https://minayu.site/en/contact/"
+
+        }
+    },
+
+    "navbar": {
+        "about": {
+            "title": "ABOUT",
+            "link": "/en/about"
+        },
+        "home": {
+            "title": "HOME",
+            "link": "/en/"
+        },
+        "blog": {
+            "title": "BLOG",
+            "link": "/en/blog"
+        },
+        "portfolio": {
+            "title": "PORTFOLIO",
+            "link": "/en/portfolio"
+        },
+        "contact": {
+            "title": "CONTACT",
+            "link": "/en/contact"
+        }
+    },
+    "index": {
+      "motto1": "Do what you want and Work it hard. Cultivate your own Influence. Walk out your unique Road. ",
+      "motto2": "That’s Challenge it, Work Hard it and Create something.",
+      "feature": "FEATURED",
+      "IndexBlockBox": {
+        "blog": {
+          "title": "Blog",
+          "description": "The blog page show all posts with different topics, categories knowledge and experiece."
+        },
+        "itthings": {
+            "title": "IT things",
+            "description": "A blog category page related IT knowledge, software development and experiece."
+          },
+        "travel": {
+            "title": "Travel",
+            "description": "A blog category page related my personal travel diary."
+        },
+        "languages": {
+            "title": "Languages",
+            "description": "A blog category page related the learning experience of languages."
+        },
+        "fortune-telling": {
+            "title": "Fortune-telling",
+            "description": "A blog category page related fortune-telling and experiece"
+        },
+        "about": {
+            "title": "About",
+            "description": "Introduce this website, brand concept and me."
+        },
+        "miri": {
+            "title": "Miri",
+            "description": "Miri is my own-developed creative product, the divination and fortune-telling service."
+        },
+        "portfolio": {
+            "title": "Portfolio",
+            "description": "Show all projects and products I joined and developed by timeline design."
+        },
+        "resume": {
+            "title": "Resume",
+            "description": "Show my resume, please enjoy it and contact me if you have interesting."
+        },
+        "tobecontinue": {
+            "title": "",
+            "description": "To be continue..."
+        }
+      }
+    },
+    "about": {
+        "motto1": "Everyone is unique, with unique personality, it can not use one word or sentence to define a person. A person have different aspect personalities, maybe you only touch one side. ",
+        "motto2": "Psychology and Emotion are the best creation of human.",
+        "IndexBlockBox": {
+            "blog": {
+              "title": "Blog",
+              "description": "The blog page show all posts with different topics, categories knowledge and experiece."
+            },
+            "portfolio": {
+                "title": "Portfolio",
+                "description": "Show all projects and products I joined and developed by timeline design. "
+              },
+            "resume": {
+                "title": "Resume",
+                "description": "Show my resume, please enjoy it and contact me if you have interesting."
+            }
+        },
+        "introduction":{
+            "question1": {
+                "title": "Why I create this website?",
+                "description": "Since child, I have taken education or messages filled with negative or must conform traditional society concepts or work very hard to achieve high standard which authority give, I was trying to work hard to be same with others, but still can not achieve the high standard and begin to doubt myself and lost the shape of myself.",
+                "description1": "(2017 Nov, short-term trip to Pennsylvania, USA. Before this, I never seen any beautiful autumn place such this, seems I discover the new world.)",
+                "description2": "When 2017 years, I went to a short-term business trip of USA, it brings me big culture shock.",
+                "description3": "Remember that I was taught in childhood that 'don't do that', 'this is not good', 'that is not good', 'must be same with the expectation of society', everyone do this, why can't you follow it, and they compare me with others.",
+                "description4": "I have fully curious, there are already many people live in same life, and my life only one time, why can not find other options, other life style, and try to verify the other options are achievable? ",
+                "description5": "Before I create website, sometimes I travel to different countries and met many people from western countries, I like them, look independent, confident and courageous. After I went to USA, I found local people present different personalities and styles, each person with its unique personality and style, and with different life road, unlike my environment, always need to follow rules, people tend to bully or ignore unique person, and don't accept personal opinions.",
+                "description6": "So after I came back from USA, I want to build a personal website to express myself and inspire people, everyone is independent, live a life you want, build own unique personality, life and life direction, challedge new things and different options. Also notice myself, that I'm an independent entity, can life a life I want. "
+            },
+            "question2": {
+                "title": "This brand?",
+                "description1": "This was not a brand or not a concept before, as above mentioned, I want to through building this website to inspire everyone can live different personalities and life style they want, and through stories about how I overcome obstacles and challedging to inspire people go forward. ",
+                "description2": "My website has been moved and changed many times, I always used online blog services or rule-based SSG tools to build my website, and I always think it lacks a soul inside my website, I can not fully present the impression I want in previous website, so I decided to learn skills and developing one by myself, hoping this new site can deliver the concepts I want to share to people. ",
+                "description3": "(2018 Feb, I went to Iceland, I remember I very like a movie called 'The Secret Life of Walter Mitty', so I went to Iceland and faced snowstorm, this photo looks like we face any obstacles in life, and the process of overcoming is very beautiful. ",
+                "description4": "My previous website title called 'Aquarius Moon Sign @Mina's life travel' and then I changed to 'Aquarius Moon Sign @Mina's Life Lab'.",
+                "description5": "I'm Aquarius Moon Sign, the goal in my 20 generation (20-29 years old) is to find and explore myself, I want to emphasize that 'I'm unique and different from others', that's why I add Aquarius Moon Sign to the website title.",
+                "description6": "About 'Life Travel' or 'Life Lab', because I was so confused with my personalities and future direction in that moment, I want to find what I want and what's my direction through trying different habbits and different fields of work. In same time, I tried different style to understand myself constantly. In this exploring period, I think every person or thing I met as the travler and passer, because they are not the final goal, travel in whole life road, find and explore my talent and abilities and just recording each important moment in my website. "
+            },
+            "question3": {
+                "title": "@MINA INFLUENCE",
+                "description1": "(2019 Jan, in Toro, Hokkaido. It was climbing Snow mountain road with -5 temperature, a road about talking to my inner voice.)",
+                "description2": "In the previous year of 30 years old, I have tried different fields of things, having different setback, failure, hopeless, overcome, success and joyful experience. In the past each moment, I understand slowly: 'oh, this is my face, what the impression I gave to people., 'oh, eventually, this is the direction I want', 'wow, so these are the concepts or habbits I like', one person will have different aspects of personalities, don't need to imitate others, don't need to emphasize that I'm unique from others, because I have my own unique personalities and style. ",
+                "description3": "In the beginning of 30 generation, I designed my personal website by myself and I want to re-design the name of website. In Chinese website title, I keep the name 'Aquarius Moon Sign @Mina's Life Lab'. But in English name, I changed to '@MINA INFLUENCE', I want to share stories about how I overcome failure, setback, courage to challedge things and any inspiration things, spread my influence, through my website to share inspirational stories, motivate people to do, go forward with positive, live a life you want and walk a unique road belongs you. ",
+                "description4": "Will things, situations or environment be different because of my influence? Cause different revolution and innovation, this is what goal I want to do in next generation."
+            },
+            "question4": {
+                "title": "What will it bring?",
+                "description1": "That's go back the one quote motto in main page: ",
+                "description2": "Do what you want and Work it hard. Cultivate your own Influence. Walk out your unique Road. That’s Challenge it, Work Hard it and Create something.",
+                "description3": "The meaning is, don't be same or fill to society, don't be limited by the rules given from society. When you want to do something, exclude the other voice around you, focus on things, do it, create a unique road belongs to you, having courage to challedge, then create somethings unique and belongs to you, caltivate abilities and these things, they will empower you strong, support you spread your influence. ",
+                "description4": "Have courage to challedge, all failure and setback are the nutrition of success, when fall to the low point, don't forget to take the time to rest, because the next step will be to slowly go up. It doesn't matter you try and make mistakes, think better solutions and correct them, eventually it will become a success.",
+                "description5": "Confidence, Unique, Freedom, Positive Thinking, Independent, Creative, Knowledge, Wisdom, Courage, Express, Inspiration, Challedge, Adventure. "
+            },
+            "question5": {
+                "title": "About Me",
+                "description1": "Hi, I'm Mina, an ENTP crazy girl.",
+                "description2": "I'm a Back-end software engineer, a polyglot learner and blogger. ",
+                "description3": "My habbits are: software development, create my own website, projects, learning languages, writing blog articles, walking around city, riding bicycle, traveling and sometimes researching psychology and fortune-telling.",
+                "description4": "Since child, I have interesting to learn different languages, like to explore the cultures of different countries. Due to extroverted, loving creative and challedge, no limitation by traditional rules and concepts, caused me like cultures which are more freedom, hoping I can create unique and different life stories, create more different possibilities. ",
+                "description5": "Software Development",
+                "description6": "Information Technology bachelor and master degrees, I like to research blog website and css designing since high school, but now I don't know why I am being a Python Back-end software engineer, have developed with AI, factories and bank company products and developed sun energy and street light fields IoT company products, now devoting with medical field company. ",
+                "description7": "My Dream is designing my personal website and use software development to realize my creative ideas. ",
+                "description8": "Learning front-end since this year (2022).",
+                "description9": "Languages Learning",
+                "description10": "Since child, like to explore different countries and cultures. The summer vacation in Junior high school crush to Japanese language, the final point is 3 points to got N2 certificate. Turned to learn Spanish in third year in university and achieved B1 level in 2020 years. ",
+                "description11": "Have learned English, Japanese, Spanish and Russian.",
+                "description12": "Touched temporarily French, German, Swedish, Hindi, Arabic and Hebrew.",
+                "description13": "Hoping have time to try French and German. However, now concentrate on English, learning around different languages, more like english culture and concepts.",
+                "description14": "Divination and Fortune-telling",
+                "description15": "Have researched on Zhi-Wei, Astrology, Tarot, Lenormand, Oracle Cards, Runes, now focus on human design.",
+                "description16": "Self-developing Divination and Fortune-telling software, and plan to develop more features in the future.",
+                "description17": "There are not specific category in blog articles, most categories around Software Development, Languages Learning Experience, Fortune-telling and Divination, Psychology Exploring and Travel Diary.",
+                "description18": "Other personal points",
+                "description19": "- I'm Sun Aries with Aquarius Moon Sign.",
+                "description20": "- MBTI: 75% mature ENTP, doing things by J type, goal-oriented, more focus and more concentrated, Improved time management, developed some Fe, good for people and team relationship.",
+                "description21": "- Personality: looks naive, like a child, relaxing, fulfill many strange ideas inside brain, unfamiliar people think I'm crazy. But familiar friends found the middle core of mine are calm, serious, ratioanl and logical, although sometime lack of confidence and insecure, but normally can be overcame by positive attiture and concepts. Well, about inner core, best friends always said: you look like a pure and simple child, although have seen many negative things, but still be pure, simple, kind and serious to do everything. Look at you eat cake, even I don't, but I can feel you are fulfill beauty and happiness."
+            }
+        }
+    },
+    "blog": {
+        "motto1": "We know this world is dark and evil, but we still keep optimistic and believe good things.",
+        "motto2": "Challedge, Try New Things and Overcoming Obstacles. Keep positive for any obstacles and failure, challedge your life and walk out your unique life road. ",
+        "SidebarProfile": "Hi, this is Mina, an ENTP type person always with innovative ideas. Cheerful, lively, also romantic. A software engineer, blogger, love to explore different cultures and build entrepreneurship. ",
+        "comments": {
+            "title": "Comment Board",
+            "description": "Click to expand comment board!"
+        }
+    },
+    "portfolio": {
+        "motto1": "My dream is realized my creative ideas and express myself through developing software products/projects by myself.",
+        "motto2": "",
+        "IndexBlockBox": {
+            "miri": {
+              "title": "Miri",
+              "description": "Miri is my own-developed creative product, the divination and fortune-telling service."
+            },
+            "minaInfluence": {
+                "title": "@Mina Influence",
+                "description": "Yup, that's the website you current see. My new version's personal website."
+              },
+            "githubMinayu": {
+                "title": "Github @minayu416",
+                "description": "My github account, you can see more projects inside it."
+            }
+        },
+        "description1": "Hello, I'm Mina, I'm a Python Back-end Engineer and have developed many product/project in different fields. This is my portfolio for list all projects, products, side-projects includes my personal projects.",
+        "description2": "Back-end software development is my main field now, I have most development experiece by Python and little Java programming languages and have worked with different business fields experiece. ",
+        "description3": "I have began to learn front-end since April, 2022, and I will continue to deep on Back-end and explore front-end new field.",
+        "projects": {
+            "project1": {
+                "date": "April, 2022 - Sep, 2022",
+                "title": "@Mina Influence ",
+                "description": "My personal website with new design, all design and developed by myself, the first project for learning front-end. ",
+                "description1": "After the 2015 years, I awake successfully from addiction of online games, I visited America and Nordic Europe, met people from Germany, Hungary, Australia in my university and travelers, they looked freedom, independent and expressing their ideas, which was very less in our culture, so I would like to make one website to show my personalities and life concepts, inspiring people have courage to be themselves, do things they want, live a unique life roads and create unique stories belong them."
+            },
+            "project2": {
+              "date": "April, 2017 - ",
+              "title": "Miri Robot Fortune-Teller ",
+              "description": "Own-developed divination and fortune-telling creative product, it moves the traditional flows of divination and fortune-telling to software and internet. I have touched fortune-telling since 2015 years, I used to use it for predicting future. But in these years, its new trend becames helping people find their original personalities, improving shortcomings or playing to strengths. I hope to use the power of technology to make a robot fortune-teller, it can give suitable suggestions and decisions according to the situation, current status and condition of the person, so that he/she can combine with his/her body, mind, and soul, and live a life he/she want."
+            },
+            "project3": {
+                "date": "November, 2020 - February, 2021",
+                "title": "Solar Energy Sites Data Collect System ",
+                "description": "A solar energy data collector which receives instant data from all solar energy sites IoT devices every 2 minutes through MQTT message broker. Processing, calculating and saving data into database for monitoring and analyses. Improved 80% speed for processing instant data than former system by using Async and Multi-Thread design."
+            },
+            "project4": {
+                "date": "October, 2020 - December, 2022",
+                "title": "Solar Energy Site Project Auditing and Management ",
+                "description": "A program to generate daily reports for helping the solar energy sales department to understand the operation progress of each solar site project and lacking status of documents. Reduced work time of hand-making reports, helping officials manage projects and progress conveniently."
+            },
+            "project5": {
+                "date": "April, 2020 - September, 2020",
+                "title": "Solar Energy Sites Monitor Platform ",
+                "description": "A dashboard website for showing whole status, efficiency, calculation and prediction information instantly of total 116 Taiwanese solar energy sites data, receiving every 2 minutes instant data from IoT devices through MQTT message broker. Offered experts, customers, engineers to monitor instant situation of solar energy sites, alarmed engineers abnormal status of devices for processing problems instantly."
+            },
+            "project6": {
+                "date": "November, 2019 - May, 2020",
+                "title": "Street Light Smart Management System ",
+                "description": "A management website can monitor and manage the instant situation of total 260 thousand streetlights in Taiwan. Receiving instant data of 260 thousand streetlights through MQTT protocol and includes following management features: devices information, controlling devices, issue reports, scheduling light, account management and more features. In this product, responsible for designing high extendable system structure, advanced features implementation and processing messages with IoT devices by MQTT."
+            },
+            "project7": {
+                "date": "July, 2019 - August, 2019",
+                "title": "Robot-Advisor ",
+                "description": "AI Bank Insurance System project, recommend suitable insurance plans based on customers’ requirements by Black-Litterman (BL) Model algorithm. In this project, designed Test plans and maintained daily data crawler program for system stability."
+            },
+            "project8": {
+                "date": "January, 2019 - November, 2021",
+                "title": "LUNA ACUARIO @MINA ",
+                "description": "My original website, which mainly show the blog posts, after the new design release, this is archived now. "
+            },
+            "project9": {
+                "date": "November, 2018 - June, 2019",
+                "title": "SyGPS™ AI-enabled business GPS ",
+                "description": "A Business Intelligence (BI) with AI algorithm core system, developed in Python, Flask and Vue.js, analyzes the business value, past operations, sales and future trends prediction by importing big data from enterprises’s databases. Entrepreneurs and customers can ask questions though search bar for getting current insight reports by AI."
+            },
+            "project10": {
+                "date": "September, 2018 - November, 2018",
+                "title": "Beijing Industrial Website ",
+                "description": "A factory monitor website provides KPI calculation, yield failure rate, people flow system, employee monitoring, and alarm system for helping management."
+            },
+            "project11": {
+                "date": "April, 2017 - June, 2018",
+                "title": "The Data Construction and Research Analysis of Vulnerable Families ",
+                "description": "Assisted government to analyze reasons of Vulnerable Families so that they can take required actions and make better decision. Collaborated to Ministry of Health and Welfare and Department of Social Work. Analyzing cause conditions from residence area, national income and health insurance levels of 20 million citizens data, made insight reports and discussion with officials."
+            },
+            "project12": {
+                "date": "April, 2018 - June, 2018",
+                "title": "Bonus System Software ",
+                "description": "A Python Desktop software for verifying my Master’s degree paper: A Bonus-based Approach to the Improvement of MOOC Completion Rate, which calculates scores based on student activity while students take online courses, showing scores to students as a feeling of achievement and helping to increase students’ willingness to learn courses."
+            },
+            "project13": {
+                "date": "August, 2017 - September, 2017",
+                "title": "Earth Ethical Eating Day ",
+                "description": "Helped Taiwanese international humanitarian and non-governmental organization Tzu Chi Foundation to build a website for exciting people eat vegetables and fruits instead meat and fish. Designed front-end part of website."
+            },
+            "project14": {
+                "date": "April, 2016 - September, 2016",
+                "title": "IR Office Official Site ",
+                "description": "Assisted administration office of university to build official website for management and news publishment. Designed and implemented website independently, discussion with officials. Re-maked as a demo web after office reformed website."
+            }
+        },
+        "tags": {
+            "selfProduct": "Self-Product",
+            "developing": "Developing",
+            "release": "Release",
+            "archive": "Archive",
+            "inCompany": "In Company",
+            "inSchool": "In School"
+        }
+    },
+
+    "resume":{
+        "url": "/resume/en/Mina_Yu.pdf"
+    },
+
+    "contact": {
+        "title": "CONTACT US",
+        "description": "Contact me, if you have any questions or interesting topics.",
+        "description1": "Any suggestions, opinions, or any information, you want to let me know, please don't hesitate to tell me."
+    }
+  }

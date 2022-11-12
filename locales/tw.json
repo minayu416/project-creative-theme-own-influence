@@ -1,0 +1,210 @@
+{
+    "seo":{
+        "url": "https://minayu.site",
+        "title": "月水瓶 @Mina 的人生實驗室",
+        "img": "https://minayu.site/favicon.jpg",
+        "home": {
+            "website": "月水瓶 @Mina 的人生實驗室 - 月水瓶 @Mina 的人生實驗室",
+            "title": "月水瓶 @Mina 的人生實驗室",
+            "description": "軟體工程師＋多語學習者，興趣是透過軟體技術搞發明、學習外語、神秘學，從邏輯的角度來研究跟實驗生活大小事，紀錄本人各種挑戰的經歷及研究生活，同時也希望鼓勵人們勇敢走出屬於自己獨特的道路。",
+            "img": "https://minayu.site/img/cover-image.jpeg",
+            "url":"https://minayu.site/"
+        },
+        "about": {
+            "website": "關於 - 月水瓶 @Mina 的人生實驗室",
+            "title": "關於",
+            "description": "嗨，我是Mina，是月亮落於水瓶座的一個ENTP奇幻女子，此個人網站紀錄本人各種挑戰人生的經歷及研究不同知識與生活的歷程，希望能激勵人們勇敢挑戰，做自己想做的事，活出自我，活出自己的故事。",
+            "img": "https://minayu.site/img/about.jpg",
+            "url":"https://minayu.site/about/"
+        },
+        "blog": {
+            "website": "部落格 - 月水瓶 @Mina 的人生實驗室",
+            "title": "部落格",
+            "description": "撰寫文章，關於軟體知識、軟體作品開發、外語學習、神秘學、旅行日記、個人的一些挑戰人生的經歷以及自己透過邏輯方面平時反省自我及觀察人們的一些不靠鋪的心理學筆記。",
+            "img": "https://minayu.site/img/blog-cover-image.jpg",
+            "url":"https://minayu.site/blog/"
+
+        },
+        "portfolio": {
+            "website": "作品集 - 月水瓶 @Mina 的人生實驗室",
+            "title": "作品集",
+            "description": "我的夢想是透過軟體技術來實踐我腦內稀奇古怪的創意跟想法。本頁面使用Timeline的設計呈現過去到現在參與過的專案開發以及個人的創意作品。",
+            "img": "https://minayu.site/img/portfolio-cover-image.jpg",
+            "url":"https://minayu.site/portfolio/"
+
+        },
+        "contact": {
+            "website": "聯繫我 - 月水瓶 @Mina 的人生實驗室",
+            "title": "聯繫我",
+            "description": "若對文章有任何感想、共鳴或有誤，以及一些有趣的問題詢問，歡迎寄信或透過LinkedIn聯繫我們唷。",
+            "img": "https://minayu.site/img/contact-cover-image.jpg",
+            "url":"https://minayu.site/contact/"
+
+        }
+    },
+    "navbar": {
+        "about": {
+            "title": "關於",
+            "link": "/about"
+        },
+        "home": {
+            "title": "主頁",
+            "link": "/"
+        },
+        "blog": {
+            "title": "部落格",
+            "link": "/blog"
+        },
+        "portfolio": {
+            "title": "作品集",
+            "link": "/portfolio"
+        },
+        "contact": {
+            "title": "聯繫我",
+            "link": "/contact"
+        }
+    },
+    "index": {
+        "motto1": "做你想做的事，然後認真的做去實現。耕耘你的影響力，走出屬於你人生獨特的路。 ",
+      "feature": "FEATURED",
+      "IndexBlockBox": {
+        "blog": {
+          "title": "部落格",
+          "description": "Lorem ipsum dolor sit amet, ne pri meis denique, atqui interpretaris an quo."
+        },
+        "itthings": {
+            "title": "軟體開發那些事",
+            "description": " Vis eu partem iuvaret, dolore inermis singulis nam no. Viris nominavi oporteat ut mel."
+          },
+        "travel": {
+            "title": "旅行日記",
+            "description": "ei nostrud inermis mea. Te est accusam salutandi, ut magna simul vim. Minimum mnesarchum eos ne, eum option ceteros at."
+        },
+        "languages": {
+            "title": "外語學習",
+            "description": "Tale mazim latine est cu, ne mei ubique antiopam."
+        },
+        "fortune-telling": {
+            "title": "命理學",
+            "description": "Qui ne oporteat singulis atomorum."
+        },
+        "about": {
+            "title": "關於我",
+            "description": "Modo percipitur ne duo. Nam feugait eleifend suavitate ut."
+        },
+        "miri": {
+            "title": "Miri",
+            "description": "Purto offendit qui et, sed ut cibo partiendo contentiones, ei congue imperdiet per."
+        },
+        "portfolio": {
+            "title": "作品集",
+            "description": "Vim et quando fastidii. Nibh falli cu pro."
+        },
+        "resume": {
+            "title": "履歷",
+            "description": "Vis eu partem iuvaret, dolore inermis singulis nam no. Viris nominavi oporteat ut mel, ei nostrud inermis mea."
+        },
+        "tobecontinue": {
+            "title": "",
+            "description": "敬請期待..."
+        }
+      }
+    },
+    "about": {
+        "motto1": "每個人都是獨特的，擁有其獨特的個性，沒辦法用一個字或一段句子形容一個人。",
+        "IndexBlockBox": {
+            "blog": {
+              "title": "部落格",
+              "description": "Lorem ipsum dolor sit amet, ne pri meis denique, atqui interpretaris an quo."
+            },
+            "portfolio": {
+                "title": "作品集",
+                "description": "Vim et quando fastidii. Nibh falli cu pro."
+              },
+            "resume": {
+                "title": "履歷",
+                "description": "Vis eu partem iuvaret, dolore inermis singulis nam no. Viris nominavi oporteat ut mel, ei nostrud inermis mea."
+            }
+        },
+        "introduction":{
+            "question1": {
+                "title": "為什麼創作這個網站？",
+                "description": "2022年4月開始，我一邊學一邊做，學習自己設計自己的個人網站。",
+                "description2": "自己學前端框架，然後也沒有設計的經驗，就這麼的到處參考其他網站的設計，加上自己過去人生的經歷跟回憶，然後設計了第一版自己的個人網站的主題。",
+                "description3": "在這次的設計中，我添加了很多富有含意的小巧思，讓這個網站能夠透過不一樣的方式呈現自我。我相信網站或者說軟體作品並不只是個軟體，每個軟體都得歷經長時間的規劃、設計、開發、測試等長週期製作，他可以像藝術品一樣。",
+                "description4": "我希望作為個人網站，網頁能夠呈現他的靈魂，展現我想表達的核心理念。",
+                "description5": "由於是自己第一次嘗試設計網頁，所以我將這個前端主題命名為Own Influence，紀念我過去好幾年都在尋找自我，尋找個人方向，一直到快邁入30歲前一年確立的自己的方向，運用自己的力量設計一個網頁主題，希望未來能透過自己的能力，發揮出更多影響力。",
+                "description6": "11/12/2022. Mina Yu."
+            }
+        }
+    },
+    "blog": {
+        "motto1": "我們知道這個世界很黑暗､ 很邪惡，即便如此我們還是願意相信正向､ 美好及善良。",
+        "motto2": "勇敢挑戰､ 嘗試新事物以及克服困難，無論遇到任何挫折跟失敗都以樂觀正向的面對，勇敢挑戰你的人生，你也可以擁有屬於你獨特的個人故事。",
+        "SidebarProfile": "嗨，我是Mina. 一個ENTP奇女子，時常可以隨手拈來創意的Idea，正向､ 活躍且浪漫。是軟體開發工程師､ 部落客，還是多語學習者，喜歡去探索不同的文化跟發明些東東。",
+        "comments": {
+            "title": "Comment Board",
+            "description": "點擊展開留言板！"
+        }
+    },
+    "portfolio": {
+        "motto1": "我的夢想是透過軟體開發來實踐我腦內稀奇古怪的創意跟想法，以及展現自我。",
+        "motto2": "",
+        "IndexBlockBox": {
+            "miri": {
+              "title": "Miri",
+              "description": "Purto offendit qui et, sed ut cibo partiendo contentiones, ei congue imperdiet per."
+            },
+            "minaInfluence": {
+                "title": "@Mina Influence",
+                "description": "Lorem ipsum dolor sit amet, ne pri meis denique, atqui interpretaris an quo."
+              },
+            "githubMinayu": {
+                "title": "Github @minayu416",
+                "description": "Qui ne oporteat singulis atomorum."
+            }
+        },
+        "description1": "這塊小天地可以簡短的描述你個人的專業介紹。比方說：我是某某軟體工程師，目前已於某個行業耕耘幾年的經驗，擁有不同領域的軟體開發經驗。",
+        "description2": "此行可以簡單介紹接觸過什麼技術。接觸過五年後端技術開發，主要使用語言為C。也有三年前端開發的經驗，接觸過React.js和Vue.js框架。主要接觸行業為金融業居多。期望未來可以朝DevOps領域前進。",
+        "description3": "以上純屬虛構，與個人技術樹完全沒有任何關係，感謝！以下為作品集介紹。",
+        "projects": {
+            "project1": {
+                "date": "April, 2022 - Sep, 2022",
+                "title": "專案 1",
+                "description": "Lorem ipsum dolor sit amet, ne pri meis denique, atqui interpretaris an quo, ex vidit cotidieque comprehensam mea. Vis eu partem iuvaret, dolore inermis singulis nam no. Viris nominavi oporteat ut mel, ei nostrud inermis mea. Te est accusam salutandi, ut magna simul vim. Minimum mnesarchum eos ne, eum option ceteros at. Tale mazim latine est cu, ne mei ubique antiopam. Qui ne oporteat singulis atomorum. Modo percipitur ne duo. Nam feugait eleifend suavitate ut. Purto offendit qui et, sed ut cibo partiendo contentiones, ei congue imperdiet per. Vim et quando fastidii. Nibh falli cu pro.",
+                "description1": ""
+            },
+            "project2": {
+              "date": "April, 2017 - ",
+              "title": "專案 2",
+              "description": "Lorem ipsum dolor sit amet, ne pri meis denique, atqui interpretaris an quo, ex vidit cotidieque comprehensam mea. Vis eu partem iuvaret, dolore inermis singulis nam no. Viris nominavi oporteat ut mel, ei nostrud inermis mea. Te est accusam salutandi, ut magna simul vim. Minimum mnesarchum eos ne, eum option ceteros at. Tale mazim latine est cu, ne mei ubique antiopam."
+            },
+            "project3": {
+                "date": "November, 2020 - February, 2021",
+                "title": "專案 3",
+                "description": "Qui ne oporteat singulis atomorum. Modo percipitur ne duo. Nam feugait eleifend suavitate ut. Purto offendit qui et, sed ut cibo partiendo contentiones, ei congue imperdiet per. Vim et quando fastidii. Nibh falli cu pro."
+            },
+            "project14": {
+                "date": "April, 2016 - September, 2016",
+                "title": "專案 4",
+                "description": "Vim perfecto adipisci id, oporteat percipitur mel an. Has inermis legendos recteque ut, cum clita postea perfecto et, nullam persequeris mel ea. No errem graece alienum qui. Ut cum sale ridens. Cum altera inimicus no. Enim vidisse legendos eu ius, nisl efficiendi eum no, nam at eros feugait consequat."
+            }
+        },
+        "tags": {
+            "selfProduct": "自作作品",
+            "developing": "開發中",
+            "release": "發布",
+            "archive": "已封存",
+            "inCompany": "公司項目",
+            "inSchool": "學校專案"
+        }
+    },
+    "resume":{
+        "url": "/resume/Mina_Yu.pdf"
+    },
+    "contact": {
+        "title": "CONTACT US",
+        "description": "如果你有任何問題或感興趣的事，歡迎聯絡我。",
+        "description1": "任何建議、意見或者資訊，你想讓我知道的，都歡迎。"
+    }
+  }

@@ -1,0 +1,57 @@
+{
+    "login": {
+      "formTitle": "管理員專用",
+      "company": "公司名稱",
+      "user": "帳號",
+      "password": "密碼",
+      "buttonSignIn": "登入"
+    },
+    "map": {
+      "Navbar": {
+        "logoTitle": "路燈地圖",
+        "notification": {
+          "title": "通知",
+          "sortDropDown": {
+            "byDate": "依日期",
+            "byCategory": "依類別",
+            "byDistrict": "依行政區"
+          }
+        },
+        "user": {
+          "name": "使用者名字",
+          "switchLanguage": "語系切換",
+          "switchLanguageDropDown": {
+            "traditionalChinese": "繁體中文",
+            "simplifiedChinese": "簡體中文",
+            "english": "英文"
+          },
+          "switchUser": "切換使用者",
+          "logOut": "登出"
+        },
+        "menu": {
+          "mapPage": "地圖檢視",
+          "devicePage": "設備管理",
+          "deviceList": "設備列表",
+          "deviceGroup": "設備群組",
+          "deviceSchedule": "設備排程",
+          "eventPage": "事件列表",
+          "issuePage": "報修管理"
+        }
+      },
+      "LayerController": {
+        "baseLayer": "基本底圖",
+        "OSMLayer": "OSM 底圖",
+        "googleLayer": "Google 底圖",
+        "zone": "區域",
+        "taizhung": "台中",
+        "point": "點",
+        "streetLighting":"路燈"
+      },
+      "logOutModal": {
+        "title": "登出",
+        "content": "確定登出嗎？",
+        "buttonCancel": "取消",
+        "buttonSure": "確定"
+      }
+    }
+  }

@@ -5,15 +5,15 @@
           <div class="lg:w-1/2 w-full lg: h-full object-cover object-center bg-cover">
             <div class="w-full h-full">
             <div class="relative overflow-hidden">
-	            <img class="object-cover w-full header-image-size" src="~/static/img/blog-cover-image.jpg" alt="Flower and sky"/>
+	            <img class="object-cover w-full header-image-size" src="~/static/img/20180219_190126_0040.jpeg" alt="Flower and sky"/>
               <div>
                 <MyOwnInfluenceNavbar/>
                 <div class="absolute px-2 py-2 site-branding">
                   <div class="site-title">
-                    <p><nuxt-i18n-link to="/">@Mina Influence</nuxt-i18n-link></p>
+                    <p><nuxt-i18n-link to="/">Own Influence</nuxt-i18n-link></p>
                   </div>
                     <div class="site-description">
-                    <p>Cultivate your own Influence, Walk out your unique Road.</p>
+                    <p>A creative front-end design theme by Mina.</p>
                   </div>
                   </div>
 
@@ -34,9 +34,6 @@
                     <p class="leading-relaxed">
                       {{ $t('blog.motto1') }}
                     </p>
-                    <p class="leading-relaxed">
-                      {{ $t('blog.motto2') }}
-                      </p>
                     <span class="inline-block h-1 w-10 rounded bg-pink-500 mt-8 mb-6"></span>
                     <h2 class="text-gray-900 font-medium title-font tracking-wider text-lg">Sign @MinaYu.</h2>
                   </div>

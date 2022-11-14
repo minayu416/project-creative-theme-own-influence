@@ -1,42 +1,42 @@
 {
     "seo":{
         "url": "https://minayu.site",
-        "title": "月水瓶 @Mina 的人生實驗室",
+        "title": "Creative Theme: Own Influence",
         "img": "https://minayu.site/favicon.jpg",
         "home": {
-            "website": "月水瓶 @Mina 的人生實驗室 - 月水瓶 @Mina 的人生實驗室",
-            "title": "月水瓶 @Mina 的人生實驗室",
-            "description": "軟體工程師＋多語學習者，興趣是透過軟體技術搞發明、學習外語、神秘學，從邏輯的角度來研究跟實驗生活大小事，紀錄本人各種挑戰的經歷及研究生活，同時也希望鼓勵人們勇敢走出屬於自己獨特的道路。",
+            "website": "Creative Theme: Own Influence - Creative Theme: Own Influence",
+            "title": "Creative Theme: Own Influence",
+            "description": "A creative front-end design theme by Mina.",
             "img": "https://minayu.site/img/cover-image.jpeg",
             "url":"https://minayu.site/"
         },
         "about": {
-            "website": "關於 - 月水瓶 @Mina 的人生實驗室",
+            "website": "關於 - Own Influence",
             "title": "關於",
-            "description": "嗨，我是Mina，是月亮落於水瓶座的一個ENTP奇幻女子，此個人網站紀錄本人各種挑戰人生的經歷及研究不同知識與生活的歷程，希望能激勵人們勇敢挑戰，做自己想做的事，活出自我，活出自己的故事。",
+            "description": "A creative front-end design theme by Mina.",
             "img": "https://minayu.site/img/about.jpg",
             "url":"https://minayu.site/about/"
         },
         "blog": {
-            "website": "部落格 - 月水瓶 @Mina 的人生實驗室",
+            "website": "部落格 - Own Influence",
             "title": "部落格",
-            "description": "撰寫文章，關於軟體知識、軟體作品開發、外語學習、神秘學、旅行日記、個人的一些挑戰人生的經歷以及自己透過邏輯方面平時反省自我及觀察人們的一些不靠鋪的心理學筆記。",
+            "description": "A creative front-end design theme by Mina.",
             "img": "https://minayu.site/img/blog-cover-image.jpg",
             "url":"https://minayu.site/blog/"
 
         },
         "portfolio": {
-            "website": "作品集 - 月水瓶 @Mina 的人生實驗室",
+            "website": "作品集 - Own Influence",
             "title": "作品集",
-            "description": "我的夢想是透過軟體技術來實踐我腦內稀奇古怪的創意跟想法。本頁面使用Timeline的設計呈現過去到現在參與過的專案開發以及個人的創意作品。",
+            "description": "A creative front-end design theme by Mina.",
             "img": "https://minayu.site/img/portfolio-cover-image.jpg",
             "url":"https://minayu.site/portfolio/"
 
         },
         "contact": {
-            "website": "聯繫我 - 月水瓶 @Mina 的人生實驗室",
+            "website": "聯繫我 - Own Influence",
             "title": "聯繫我",
-            "description": "若對文章有任何感想、共鳴或有誤，以及一些有趣的問題詢問，歡迎寄信或透過LinkedIn聯繫我們唷。",
+            "description": "A creative front-end design theme by Mina.",
             "img": "https://minayu.site/img/contact-cover-image.jpg",
             "url":"https://minayu.site/contact/"
 
@@ -93,7 +93,7 @@
             "description": "Modo percipitur ne duo. Nam feugait eleifend suavitate ut."
         },
         "miri": {
-            "title": "Miri",
+            "title": "Project",
             "description": "Purto offendit qui et, sed ut cibo partiendo contentiones, ei congue imperdiet per."
         },
         "portfolio": {
@@ -139,7 +139,7 @@
         }
     },
     "blog": {
-        "motto1": "我們知道這個世界很黑暗､ 很邪惡，即便如此我們還是願意相信正向､ 美好及善良。",
+        "motto1": "勇敢挑戰､ 嘗試新事物以及克服困難，無論遇到任何挫折跟失敗都以樂觀正向的面對，勇敢挑戰你的人生，你也可以擁有屬於你獨特的個人故事。",
         "motto2": "勇敢挑戰､ 嘗試新事物以及克服困難，無論遇到任何挫折跟失敗都以樂觀正向的面對，勇敢挑戰你的人生，你也可以擁有屬於你獨特的個人故事。",
         "SidebarProfile": "嗨，我是Mina. 一個ENTP奇女子，時常可以隨手拈來創意的Idea，正向､ 活躍且浪漫。是軟體開發工程師､ 部落客，還是多語學習者，喜歡去探索不同的文化跟發明些東東。",
         "comments": {
@@ -152,15 +152,15 @@
         "motto2": "",
         "IndexBlockBox": {
             "miri": {
-              "title": "Miri",
+              "title": "Project1",
               "description": "Purto offendit qui et, sed ut cibo partiendo contentiones, ei congue imperdiet per."
             },
             "minaInfluence": {
-                "title": "@Mina Influence",
+                "title": "Own Influence",
                 "description": "Lorem ipsum dolor sit amet, ne pri meis denique, atqui interpretaris an quo."
               },
             "githubMinayu": {
-                "title": "Github @minayu416",
+                "title": "Project3",
                 "description": "Qui ne oporteat singulis atomorum."
             }
         },
@@ -200,7 +200,7 @@
         }
     },
     "resume":{
-        "url": "/resume/Mina_Yu.pdf"
+        "url": "/#"
     },
     "contact": {
         "title": "CONTACT US",

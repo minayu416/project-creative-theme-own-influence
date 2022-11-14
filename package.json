@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content": "^2.2.1",
+    "@nuxt/content": "^1.15.1",
     "@nuxtjs/composition-api": "^0.33.1",
     "@nuxtjs/i18n": "^7.3.0",
     "@tailwindcss/typography": "^0.5.7",

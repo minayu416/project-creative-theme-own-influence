@@ -4,7 +4,7 @@
                     <p class="font-bold text-center text-gray grid-subtitle text-md">ABOUT ME</p>
                 </div>
                 <div class="flex items-center justify-center">
-                <img class="object-cover rounded-full" width="175" height="175" src="~/static/img/logo.jpg" alt="Author Profile"/>
+                <img class="object-cover rounded-full" width="175" height="175" src="~/static/img/block/img_9342.jpeg" alt="Author Profile"/>
                 </div>
                 <p class="leading-relaxed text-md text-center pt-3 pb-3 px-2 motto-block">
                   {{ $t('blog.SidebarProfile') }}
@@ -20,12 +20,8 @@
             </div>
             <!-- busuanzi -->
                 <div class="my-5 pl-5 font-bold font-voll">
-                    <span id="busuanzi_container_site_pv">
-                        <p class="pb-2">Visits: <span id="busuanzi_value_site_pv"></span></p>
-                    </span>
-                    <span id="busuanzi_container_site_uv">
-                        <p>Visitors: <span id="busuanzi_value_site_uv"></span></p>
-                    </span>
+                        <p class="pb-2">Visits: 9,231 (test number)</p>
+                        <p>Visitors: 5,724 (test number)</p>
                 </div>
             </div>
 </template>

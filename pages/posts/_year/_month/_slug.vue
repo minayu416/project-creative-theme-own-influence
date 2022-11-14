@@ -166,35 +166,6 @@ async asyncData ({ params, $content }) {
           const options = { year: 'numeric', }
           return new Date(date).toLocaleDateString('en', options)
         }
-    },
-    head(){
-      return{
-        title: this.postName + ' - ' + this.$t('seo.title'),
-          htmlAttrs: {
-            lang: this.$i18n.locale,
-          },
-        meta: [
-            { hid: 'description', name: 'description', content: this.description},
-            { hid: 'keywords', name: 'keywords', content: this.seoKeywords },
-            
-            { hid: 'og:title'  , property: 'og:title' , content: this.postName },
-            { hid: 'og:description' , property: 'og:description' , content: this.description },
-            { hid: 'og:url' , property: 'og:url' , content: this.$t('seo.url') + $nuxt.$route.path + '/'},
-            { hid: 'og:type' , property: 'og:type' , content: 'article'},
-            { hid: 'og:image' , property: 'og:image' , content: this.seoPhoto },
-            { hid: 'og:image:type' , property: 'og:image:type' , content: 'image/jpg'},
-            { hid: 'og:locale' , property: 'og:locale' , content: this.$i18n.locale},
-
-            // Twitter
-            { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-            { hid: 'twitter:title', name: 'twitter:title', content: this.postName },
-            { hid: 'twitter:description', name: 'twitter:description', content: this.description },
-            { hid: 'twitter:image', name: 'twitter:image', content: this.seoPhoto },
-            // itemprop
-            { hid: 'itemprop:name' , itemprop: 'name' , content: this.postName },
-            { hid: 'itemprop:description' , itemprop: 'description' , content: this.description },
-        ]
-      }
     }
 }
 

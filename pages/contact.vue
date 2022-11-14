@@ -64,39 +64,3 @@ style=" fill:#000000;"><path fill="#0078d4" d="M24,4C12.954,4,4,12.954,4,24s8.95
   <MyOwnInfluenceFooter/>
 </div>
 </template>
-
-<script>
-
-export default {
-      head(){
-      return{
-        title: this.$t('seo.contact.website'),
-          htmlAttrs: {
-            lang: this.$i18n.locale,
-          },
-        meta: [
-            { hid: 'description', name: 'description', content: this.$t('seo.contact.description')},
-            // { hid: 'keywords', name: 'keywords', content: 'keyword1,keyword2,keyword3,keyword4,keyword5' },  
-
-            { hid: 'og:title'  , property: 'og:title'  , content: this.$t('seo.contact.title')},
-            { hid: 'og:description' , property: 'og:description' , content: this.$t('seo.contact.description')},
-            { hid: 'og:url' , property: 'og:url' , content: this.$t('seo.url') + $nuxt.$route.path + '/' },
-            { hid: 'og:image' , property: 'og:image' , content: this.$t('seo.contact.img')},
-            { hid: 'og:image:type' , property: 'og:image:type' , content: 'image/jpg'},
-            { hid: 'og:locale' , property: 'og:locale' , content: this.$i18n.locale},
-
-            // Twitter
-            { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-            { hid: 'twitter:title', name: 'twitter:title', content: this.$t('seo.contact.title') },
-            { hid: 'twitter:description', name: 'twitter:description', content: this.$t('seo.contact.description') },
-            { hid: 'twitter:image', name: 'twitter:image', content: this.$t('seo.contact.img') },
-            // itemprop
-            { hid: 'itemprop:name' , itemprop: 'name' , content: this.$t('seo.contact.title')},
-            { hid: 'itemprop:description' , itemprop: 'description' , content: this.$t('seo.contact.description')},
-        ]
-      }
-    }
-    
-}
-
-</script>

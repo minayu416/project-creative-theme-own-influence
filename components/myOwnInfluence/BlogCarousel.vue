@@ -30,41 +30,41 @@ export default {
         {
             class: "carousel-item active relative float-left w-full",
             topic: "Post",
-            title: '[人類圖探討] 來說說G中心空白及未定義的心得感想',
+            title: 'Human Design',
             content: 'Posted on Jan 16, 2021',
-            link: "/2021/01/human-design-g-center-not-define",
+            link: "#",
             image: "https://minayu0416.files.wordpress.com/2021/01//screen-shot-2021-01-16-at-8.18.07-pm.png"
         },
         {
             class: "carousel-item relative float-left w-full",
             topic: "Post",
-            title: '兩年工作經驗的後端工程師技能樹與職涯發展 | 一年沒工作',
+            title: 'The Future Path of Job',
             content: 'Posted on Feb 25, 2022',
-            link: "/2022/02/find-the-third-job",
+            link: "#",
             image: "https://minayu0416.files.wordpress.com/2020/12//img.jpg"
         },
         {
             class: "carousel-item relative float-left w-full",
             topic: "Category",
-            title: '語言學習 Language Learning',
+            title: 'Language Learning',
             content: '紀錄學習各種語言的小故事。',
-            link: "/blog/category/語言相關%20LANGUAGE",
+            link: "#",
             image: require('~/static/img/carousel/index-block-language.jpg')
         },
         {
             class: "carousel-item relative float-left w-full",
             topic: "Post",
-            title: '焦慮型依戀情人行為及思想分析以及如何改善(附上流程圖)',
+            title: 'Remember to love yourself!',
             content: '在愛自己的道路上，我們一起努力！',
-            link: "/2020/08/love-anxious-preoccupied-attachment-1-message",
+            link: "#",
             image: "https://minayu0416.files.wordpress.com/2019/02//1549967160772167437065539621526.jpg"
         },
         {
             class: "carousel-item relative float-left w-full",
             topic: "Category",
-            title: '旅行日記 Travel Diary',
+            title: 'Travel Diary',
             content: '每一刻，都是如此美麗。',
-            link: "/blog/category/%E6%97%85%E8%A1%8C%E6%97%A5%E8%A8%98%20Travel",
+            link: "#",
             image: require('~/static/img/carousel/index-block-travel.jpg')
         }
         ]

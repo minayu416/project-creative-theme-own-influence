@@ -125,13 +125,13 @@ export default {
   async asyncData({ $content, params, error }) {
     const pageNo = parseInt(params.number)
     const tenPosts = await $content("posts")
-    .where({ status: { $eq: "published" } }).sortBy("date", "desc").limit(17).skip(16 * (pageNo - 1)).fetch()
+    .where({ status: { $eq: "published" } }).sortBy("date", "desc").limit(11).skip(10 * (pageNo - 1)).fetch()
 
     if (!tenPosts.length) {
       return error({ statusCode: 404, message: 'No posts found!' })
     }
 
-    const nextPage = tenPosts.length === 17
+    const nextPage = tenPosts.length === 11
     const posts = nextPage ? tenPosts.slice(0, -1) : tenPosts
     // console.log(nextPage)
     // console.log(posts)
@@ -182,33 +182,6 @@ export default {
           const options = { year: 'numeric', }
           return new Date(date).toLocaleDateString('en', options)
         }
-    },
-head(){
-      return{
-        title: this.$t('seo.blog.website'),
-          htmlAttrs: {
-            lang: this.$i18n.locale,
-          },
-        meta: [
-            { hid: 'description', name: 'description', content: this.$t('seo.blog.description')},
-
-            { hid: 'og:title'  , property: 'og:title'  , content: this.$t('seo.blog.title')},
-            { hid: 'og:description' , property: 'og:description' , content: this.$t('seo.blog.description')},
-            { hid: 'og:url' , property: 'og:url' , content: this.$t('seo.url') + $nuxt.$route.path + '/' },
-            { hid: 'og:image' , property: 'og:image' , content: this.$t('seo.blog.img')},
-            { hid: 'og:image:type' , property: 'og:image:type' , content: 'image/jpg'},
-            { hid: 'og:locale' , property: 'og:locale' , content: this.$i18n.locale},
-
-            // Twitter
-            { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-            { hid: 'twitter:title', name: 'twitter:title', content: this.$t('seo.blog.title') },
-            { hid: 'twitter:description', name: 'twitter:description', content: this.$t('seo.blog.description') },
-            { hid: 'twitter:image', name: 'twitter:image', content: this.$t('seo.blog.img') },
-            // itemprop
-            { hid: 'itemprop:name' , itemprop: 'name' , content: this.$t('seo.blog.title')},
-            { hid: 'itemprop:description' , itemprop: 'description' , content: this.$t('seo.blog.description')},
-        ]
-      }
     }
 }
 </script>

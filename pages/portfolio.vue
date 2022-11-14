@@ -18,14 +18,14 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 post-list">
         
             <div class="relative overflow-hidden rounded-lg cursor-pointer hover:shadow-lg hover:scale-95">
-              <a href="https://minayu.site/miri-robot-fortune-teller/">
+              <nuxt-i18n-link to="/blog">
                 <img class="brightness-75 object-cover w-full h-full" src="~/static/img/block/snow_photo2.jpeg" alt="Miri Block Grid"/>
 
                 <div class="absolute bottom-0 left-0 px-6 py-4">
                   <h4 class="mb-3 text-xl font-semibold tracking-tight text-white font-fondamento">{{ $t('portfolio.IndexBlockBox.miri.title') }}</h4>
                   <p class="leading-normal text-white font-voll">{{ $t('portfolio.IndexBlockBox.miri.description') }}</p>
                 </div>
-              </a>
+              </nuxt-i18n-link>
             </div>
             
             <div class="relative overflow-hidden rounded-lg">
@@ -40,14 +40,14 @@
             </div>
             
             <div class="relative overflow-hidden rounded-lg cursor-pointer hover:shadow-lg hover:scale-95">
-              <a href="https://github.com/minayu416">
+              <nuxt-i18n-link to="/blog">
                 <img class="brightness-75 object-cover w-full h-full" src="~/static/img/block/img_8997.jpeg" alt="My github Block Grid"/>
 
                 <div class="absolute bottom-0 left-0 px-6 py-4">
                   <h4 class="mb-3 text-xl font-semibold tracking-tight text-white font-fondamento">{{ $t('portfolio.IndexBlockBox.githubMinayu.title') }}</h4>
                   <p class="leading-normal text-gray-100 font-voll">{{ $t('portfolio.IndexBlockBox.githubMinayu.description') }}</p>
                 </div>
-              </a>
+              </nuxt-i18n-link>
             </div>
 
             </div>
@@ -113,40 +113,3 @@
 </div>
 
 </template>
-
-
-<script>
-
-export default {
-      head(){
-      return{
-        title: this.$t('seo.portfolio.website'),
-          htmlAttrs: {
-            lang: this.$i18n.locale,
-          },
-        meta: [
-            { hid: 'description', name: 'description', content: this.$t('seo.portfolio.description')},
-            // { hid: 'keywords', name: 'keywords', content: 'keyword1,keyword2,keyword3,keyword4,keyword5' },  
-
-            { hid: 'og:title'  , property: 'og:title'  , content: this.$t('seo.portfolio.title')},
-            { hid: 'og:description' , property: 'og:description' , content: this.$t('seo.portfolio.description')},
-            { hid: 'og:url' , property: 'og:url' , content: this.$t('seo.url') + $nuxt.$route.path + '/' },
-            { hid: 'og:image' , property: 'og:image' , content: this.$t('seo.portfolio.img')},
-            { hid: 'og:image:type' , property: 'og:image:type' , content: 'image/jpg'},
-            { hid: 'og:locale' , property: 'og:locale' , content: this.$i18n.locale},
-
-            // Twitter
-            { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-            { hid: 'twitter:title', name: 'twitter:title', content: this.$t('seo.portfolio.title') },
-            { hid: 'twitter:description', name: 'twitter:description', content: this.$t('seo.portfolio.description') },
-            { hid: 'twitter:image', name: 'twitter:image', content: this.$t('seo.portfolio.img') },
-            // itemprop
-            { hid: 'itemprop:name' , itemprop: 'name' , content: this.$t('seo.portfolio.title')},
-            { hid: 'itemprop:description' , itemprop: 'description' , content: this.$t('seo.portfolio.description')},
-        ]
-      }
-    }
-    
-}
-
-</script>

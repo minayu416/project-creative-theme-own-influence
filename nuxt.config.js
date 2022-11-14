@@ -1,6 +1,6 @@
 const seoSetting = {}
 seoSetting.title = "Own Influence Creative Theme"
-seoSetting.description = "A creative front-end design theme developed by Nuxt.js."
+seoSetting.description = "A creative front-end design theme by Mina."
 seoSetting.image = "~/static/favicon.jpg"
 
 export default {

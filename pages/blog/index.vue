@@ -150,13 +150,13 @@ export default {
     async asyncData({ $content }) {
         //const { $content } = context;
         // Query blog posts
-        const tenArticles = await $content("posts").where({ status: { $eq: "published" } }).sortBy("date", "desc").limit(17).fetch();
+        const tenArticles = await $content("posts").where({ status: { $eq: "published" } }).sortBy("date", "desc").limit(11).fetch();
         // console.log(articles);
         // const top_posts = articles.slice(0, 9);
         // console.log(top_posts);
         
         // Calculate page
-        const nextPage = tenArticles.length === 17
+        const nextPage = tenArticles.length === 11
         const articles = nextPage ? tenArticles.slice(0, -1) : tenArticles
         
         // Calculate category

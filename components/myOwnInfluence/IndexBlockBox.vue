@@ -9,7 +9,7 @@
         
         <div class="relative overflow-hidden rounded-lg cursor-pointer hover:shadow-lg hover:scale-95">
           <nuxt-i18n-link to="/blog">
-            <img class="brightness-75 object-cover w-full h-full" src="~/static/img/20180219_190126_0040.jpeg" alt="Blog Block Grid"/>
+            <img class="brightness-75 object-cover w-full h-full" src="~/static/img/block/20180219_190126_0040.jpeg" alt="Blog Block Grid"/>
 
             <div class="absolute bottom-0 left-0 px-6 py-4">
               <h4 class="mb-3 text-xl font-semibold tracking-tight text-white font-fondamento">{{ $t('index.IndexBlockBox.blog.title') }}</h4>

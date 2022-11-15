@@ -30,7 +30,7 @@
             
             <div class="relative overflow-hidden rounded-lg">
               <!-- <a href="/about"> -->
-                <img class="brightness-75 object-cover w-full h-full" src="~/static/img/20180219_190126_0040.jpeg" alt="About Block Grid"/>
+                <img class="brightness-75 object-cover w-full h-full" src="~/static/img/block/20180219_190126_0040.jpeg" alt="About Block Grid"/>
 
                 <div class="absolute bottom-0 left-0 px-6 py-4">
                   <h4 class="mb-3 text-xl font-semibold tracking-tight text-white font-fondamento">{{ $t('portfolio.IndexBlockBox.minaInfluence.title') }}</h4>

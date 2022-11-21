@@ -31,38 +31,3 @@
 </div>
 
 </template>
-
-
-<script>
-// {{ $t('map.Navbar.user.logOut') }}
-export default {
-    head(){
-      return{
-        title: this.$t('seo.home.website'),
-          htmlAttrs: {
-            lang: this.$i18n.locale,
-          },
-        meta: [
-            { hid: 'description', name: 'description', content: this.$t('seo.home.description')},
-            // { hid: 'keywords', name: 'keywords', content: 'keyword1,keyword2,keyword3,keyword4,keyword5' },  
-
-            { hid: 'og:title'  , property: 'og:title'  , content: this.$t('seo.home.title')},
-            { hid: 'og:description' , property: 'og:description' , content: this.$t('seo.about.description')},
-            { hid: 'og:url' , property: 'og:url' , content: this.$t('seo.url') + $nuxt.$route.path + '/' },
-            { hid: 'og:image' , property: 'og:image' , content: this.$t('seo.home.img')},
-            { hid: 'og:image:type' , property: 'og:image:type' , content: 'image/jpg'},
-            { hid: 'og:locale' , property: 'og:locale' , content: this.$i18n.locale},
-
-            // Twitter
-            { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-            { hid: 'twitter:title', name: 'twitter:title', content: this.$t('seo.home.title') },
-            { hid: 'twitter:description', name: 'twitter:description', content: this.$t('seo.home.description') },
-            { hid: 'twitter:image', name: 'twitter:image', content: this.$t('seo.home.img') },
-            // itemprop
-            { hid: 'itemprop:name' , itemprop: 'name' , content: this.$t('seo.home.title')},
-            { hid: 'itemprop:description' , itemprop: 'description' , content: this.$t('seo.home.description')},
-        ]
-      }
-    }
-}
-</script>

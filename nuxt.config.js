@@ -52,7 +52,7 @@ export default {
   router:{
     // Staging setting
     // base: '/staging/'
-    base: '/'
+    base: '/project-creative-theme-own-influence/'
     },
     generate: {
       fallback: true,

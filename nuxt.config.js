@@ -42,7 +42,7 @@ const createRoutes = async () => {
 const seoSetting = {}
 seoSetting.title = "Creative Theme: Own Influence"
 seoSetting.description = "A creative front-end design theme by Mina."
-seoSetting.image = "/img/img_8955.jpg"
+seoSetting.image = "/project-creative-theme-own-influence/img/img_8955.jpg"
 
 export default {
   ssr: false,
@@ -84,7 +84,7 @@ export default {
       { hid: 'itemprop:description' , itemprop: 'description' , content: seoSetting.description },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.jpg' }
+      { rel: 'icon', type: 'image/x-icon', href: '/project-creative-theme-own-influence/favicon.jpg' }
     ]
   },
 

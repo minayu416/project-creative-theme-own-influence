@@ -1,5 +1,7 @@
 # creative-theme-own-influence
 
+A creative front-end theme developed by Nuxt.js, also the theme use by minayu.site.
+
 ## Build Setup
 
 ```bash
@@ -15,6 +17,12 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# deploy project
+$ npm run generate
+$ git add .
+$ git commit -m "new publish"
+$ npm run deploy
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
